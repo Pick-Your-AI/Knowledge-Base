@@ -1,0 +1,6 @@
+for: Pick-Your-AI/Knowledge-Base
+icon: assets/icon.png
+subtitle: "Shared reference notes and proposed documentation structures"
+chips:
+  key: ["Knowledge base"]
+  attrs: ["Proposed_Structuring", "Pick Your AI"]
