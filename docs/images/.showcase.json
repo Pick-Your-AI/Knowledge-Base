@@ -1,0 +1,72 @@
+{
+ "config_sha256": "bd2386d654a06b2602ae9a379db613a44b7718a69e59e596c1aa59b3a6519e56",
+ "fingerprint": "f28ed604ce14e57203fd66b2202664c548105e241f4d58edd045ee179c23e929",
+ "inputs": {
+  "description": "Collect proposed documentation structures and shared reference notes for the Pick Your AI project.",
+  "icon_sha256": "37d5ca6d2b5597791c0a996c52c1c5e99b72d49d03d13568492bfc72f9e2f1d5",
+  "language": null,
+  "license": null,
+  "override_sha256": "753b606e21f6906ec18bd30a5d6a0986ac7c2f72bc506f02f1901159217fe2e6",
+  "owner": "Pick-Your-AI",
+  "repo": "Knowledge-Base",
+  "topics": [],
+  "type": "workspace",
+  "visibility": "public"
+ },
+ "outputs": {
+  "banner.png": {
+   "bytes": 98319,
+   "chips": [
+    {
+     "box": [
+      520,
+      257.9,
+      183.7,
+      38
+     ],
+     "kind": "key",
+     "source": "override",
+     "text": "Knowledge base"
+    },
+    {
+     "box": [
+      715.7,
+      257.9,
+      235.9,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Proposed_Structuring"
+    },
+    {
+     "box": [
+      963.7,
+      257.9,
+      137.9,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Pick Your AI"
+    }
+   ],
+   "icon_source": "override",
+   "px": [
+    2560,
+    720
+   ],
+   "repository_id": 1439241566,
+   "scale": 2,
+   "sha256": "b68d70a93ec11817d5eb63e5dcbf490ae9d1c3edea6278c430eb0c49756224ac"
+  },
+  "card.svg": {
+   "bytes": 24832,
+   "repository_id": 1439241566,
+   "sha256": "06358e8e8047b977bf8a547e01a0ecf736387990bd53f891804a09168a1106ef"
+  }
+ },
+ "schema": 1,
+ "skill_version": "1.0.0",
+ "standard": "ct-std-v1"
+}
